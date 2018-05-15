@@ -1,6 +1,6 @@
 # Golang勉強用
 
-以前GoでAPI作った時のやつとか、Echoの使い方とか、GoのORMの使い方とか
+前にGoでAPI作った時のやつとか、Echoの使い方とか、GoのORMの使い方とか
 
 - Framework: echo
 - ORM: GORM
