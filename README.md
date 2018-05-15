@@ -2,7 +2,7 @@
 
 以前GoでAPI作った時のやつとか、Echoの使い方とか、GoのORMの使い方とか
 
-- Framework: Echo
+- Framework: echo
 - ORM: GORM
 
 ## echo
