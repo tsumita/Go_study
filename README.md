@@ -1,4 +1,4 @@
-# Golang勉強用リポジトリ
+# Golang勉強用
 
 以前GoでAPI作った時のやつとか、Echoの使い方とか、GoのORMの使い方とか
 
