@@ -31,7 +31,7 @@ func main() {
 	e := echo.New()
 
 	// Routing（通常Handler使う）
-  e.GET("/", c.String(http.StatusOK, "Hello, World!"))
+  	e.GET("/", c.String(http.StatusOK, "Hello, World!"))
 
 	// Start server
 	e.Logger.Fatal(e.Start(":1000"))
